@@ -47,4 +47,5 @@ s.send("acknowledgement received from the server".encode())
 
 ## SERVER
 ![Screenshot (323)](https://github.com/user-attachments/assets/553a771b-191c-407a-8d80-d6b0bf80e466)
+## RESULT:
 Thus, python program to perform stop and wait protocol was successfully executed
